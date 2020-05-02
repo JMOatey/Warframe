@@ -1,0 +1,22 @@
+{
+  "name": "warframe",
+  "version": "1.0.0",
+  "description": "lol",
+  "main": "index.js",
+  "scripts": {
+    "test": "Testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMOatey/Warframe.git"
+  },
+  "keywords": [
+    "word"
+  ],
+  "author": "Jojo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMOatey/Warframe/issues"
+  },
+  "homepage": "https://github.com/JMOatey/Warframe#readme"
+}
